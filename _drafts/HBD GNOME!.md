@@ -1,0 +1,29 @@
+---
+title: HBD GNOME!
+date: 2017-09-12 20:50:39 +07:00
+categories:
+- blog
+tags:
+- GNOME
+- Linux
+layout: single
+excerpt: GNOME berulang tahun yang ke-20 pada August 15, 2017! Tepat tanggal 13 September
+  2017, GNOME 3.26 juga akan rilis. Waw, dua acara besar untuk GNOME.
+image: assets/images/posts/gnome-birthday.png
+---
+
+## **Happy Birthday GNOME!**
+
+**GNOME** berulang tahun yang ke-20 pada August 15, 2017! Tepat tanggal 13 September 2017, GNOME 3.26 juga akan rilis. Waw, dua acara besar untuk GNOME. 
+Daftar di sini: **http://s.id/3TD**
+
+Gabung bersama kami untuk merayakan Ulang Tahun GNOME ke-20 dan Pesta Rilis GNOME 3.26 dengan datang ke Prism Office, Sabtu siang. Ada donat yang akan kami bagikan dan venue yang nyaman dengan kolam renang di dalamnya. 
+
+Kami akan menyiapkan tumpeng yang secara khusus dihias oleh panitia dan relawan sebagai simbol bertambahnya usia GNOME! Jangan lewatkan momen ini. 
+
+Untuk teman-teman yang memiliki Tamiya, kami siapkan track yang nantinya akan dibuat Balapan Tamiya dengan hadiah utama sepatu khusus edisi GNOME Indonesia, kaos acara GNOME untuk pemenang kedua dan sebuah topi GNOME untuk pemenang ketiga. 
+
+Ajak sebanyak-banyaknya teman, pacar, calon istri, atau mantan calon gebetan. Bikin ramai acaranya! Kami akan bagikan informasi lanjut mengenai acara di grup ini. Atau colek saya di Messenger Facebook kalau punya pertanyaan atau takut nyasar. Hehehehe. Jangan lupa daftar di Google Form ya untuk konfirmasi kedatangan. 
+
+Selamat Ulang Tahun GNOME
+**www.happybirthdaygnome.org**
