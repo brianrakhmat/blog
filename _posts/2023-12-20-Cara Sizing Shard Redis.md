@@ -34,7 +34,7 @@ Saya melakukan Performance Test pada aplikasi saya menggunakan tools JMeter deng
 
 ![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702099402/yplghrk4jrp3zva3drjb.png)
 
-pada saat pengetesan tersebut saya mendapatkan nilai max 10.111 ops/seconds dan angka ini akan dijadikan based line untuk menghitung jumlah shards yang dibutuhkan untuk dapat menghandle 10.000 concurrent users.
+Pada saat pengetesan tersebut saya mendapatkan nilai max 10.111 ops/seconds dan angka ini akan dijadikan based line untuk menghitung jumlah shards yang dibutuhkan untuk dapat menghandle 10.000 concurrent users.
 
 Mari kita buat table extra polasinya.
 
@@ -44,7 +44,7 @@ Dari table diatas ini untuk menghandle 10.000 concurrent user ternyata membutuhk
 
 Setelah didapatkan tadi, artinya jumlah tersebut adalah jumlah License yang diperlukan juga untuk dapat menghandle ops/seconds tadi, berarti kalau ada 2 DC (12 shards x 2 DC = 24 Shards License), Sehingga kamu butuh 24 shards license redis untuk 2 DC.
 
-Note: Asumsi diatas adalah perhitungan untuk CRDB makanya 17.500 , tetapi jika Active-Standby pembaginya adalah 25.000 ops/secons per shards.
+Note: Asumsi diatas adalah perhitungan untuk CRDB sehingga nilai ops/sec untuk 1 shardsnya adalah 17.500 , tetapi jika Active-Standby pembaginya adalah 25.000 ops/secons per shards.
 
 Lalu bagaimana dengan specs hardwarenya? Mengacu pada link ini [https://docs.redis.com/latest/rs/installing-upgrading/install/plan-deployment/hardware-requirements/](https://docs.redis.com/latest/rs/installing-upgrading/install/plan-deployment/hardware-requirements/), 
 
