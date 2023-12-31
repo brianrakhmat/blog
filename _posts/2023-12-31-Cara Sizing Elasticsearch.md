@@ -28,8 +28,11 @@ Kalau belum saya sedikit share aja apa itu Elasticsearch, pada dasarnya elastics
 ## **Kapan Elastic dibutuhkan?**
 
 1. **Saat perlu search Data**
+
 ● select * from alamat where jalan = ‘Jalan Sudirman Kav. 54-55’
+
 ● Select * from alamat where jalan = ‘%Jalan Sudirman%’
+
 ● Select * from alamat where jalan = ‘%Jl. Sudirman%’
 
 Untuk mencari data seperti diatas sulit menggunakan database pada umumnya, maka daripada itu untuk mempermudah mencari data seperti diatas kita perlu menggunakan Elasticsearch.
@@ -41,8 +44,11 @@ Untuk mencari data seperti diatas sulit menggunakan database pada umumnya, maka 
 3. **Saat perlu membuat pencarian data yang complex**
 
 ● Autocomplete
+
 ● Ngram
+
 ● Sinonim
+
 ● dll
 
 ## **Architecture Elasticsearch**
