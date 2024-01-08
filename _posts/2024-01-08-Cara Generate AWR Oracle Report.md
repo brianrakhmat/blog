@@ -36,9 +36,13 @@ AWR (Automatic Workload Repository) report is a performance diagnostic report ge
 ![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702099402/zwhf6nx7rt0d4par0vt4.png)
 
 a. Masukan Nama DB
+
 b. Masukan Username dan Password
+
 c. Pastikan Role: SYSDBA
+
 d. Masukan Hostname, Port, dan Service Name
+
 e. Setelah mengklik Test dan Status: Success, Silakan connect untuk masuk ke DB.
 
 **2. After Login**
@@ -55,10 +59,14 @@ b. Klik DBA
 
 ![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702099402/d2ymcbrfjp75lhczltiu.png)
 
-a.  Setelah klik DBA, Arahkan ke sub menu AWR dari menu Performance seperti gambar di atas
+a. Setelah klik DBA, Arahkan ke sub menu AWR dari menu Performance seperti gambar di atas
+
 b. Klik AWR Report Viewer
+
 c. Pilih Start ID yang ingin di check  
+
 d. Pilih End ID yang ingin di check
+
 e. Klik tombol Generate Report (Ctrl+G). AWR akan digenerate berdasarkan rentang Start ID dan End ID. Setiap ID tersebut mewakili snapshot per satu jam. 
 
 **4. Generating AWR**
@@ -66,6 +74,7 @@ e. Klik tombol Generate Report (Ctrl+G). AWR akan digenerate berdasarkan rentan
 ![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702099402/yc89jczq7i5eamdftahu.png)
 
 a. Report sedang di generate
+
 b. Simpan hasil Generate Report untuk kemudian di analisis dan di Implementasikan.
 
 **4. AWR Report**
